@@ -66,7 +66,7 @@ result = globals()[tool_name](**json.loads(tool_args))   # 💥
 ## 快速开始
 
 ```bash
-git clone https://github.com/your-name/agent-tool-runtime.git
+git clone https://github.com/zhoubiao188/agent-tool-runtime.git
 cd agent-tool-runtime
 python -m venv .venv && source .venv/bin/activate
 pip install -e ".[dev]"

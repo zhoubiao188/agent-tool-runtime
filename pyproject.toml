@@ -22,7 +22,7 @@ dependencies = ["pydantic>=2.6"]
 dev = ["pytest>=8.0", "ruff>=0.5"]
 
 [project.urls]
-Homepage = "https://github.com/your-name/agent-tool-runtime"
+Homepage = "https://github.com/zhoubiao188/agent-tool-runtime"
 
 [tool.setuptools]
 package-dir = { "" = "src" }

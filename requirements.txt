@@ -1,0 +1,5 @@
+# 运行时依赖
+pydantic>=2.6
+
+# 开发/测试依赖（等价于 pip install -e ".[dev]"）
+# pytest>=8.0
